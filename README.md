@@ -1,0 +1,2 @@
+# SliefunProjectPlanCN
+这里将列出本Project的有关粘液科技附属的更新计划、汉化计划等
