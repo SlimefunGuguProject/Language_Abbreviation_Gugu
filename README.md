@@ -1,2 +1,4 @@
-# SliefunProjectPlanCN
-这里将列出本Project的有关粘液科技附属的更新计划、汉化计划等
+# SliefunProjectPlanCN（粘液科技附属汉化组织计划表）
+haiman233计划:
+ybw0014计划：
+baoad计划：
